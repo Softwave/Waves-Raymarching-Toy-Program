@@ -10,7 +10,11 @@ Waves uses my [Raylib-Starter-Project](https://github.com/Softwave/Raylib-Starte
 
 More example images from the program can be seen on [my Ko-fi](https://ko-fi.com/s/710a4f7757).
 
-![Here is a sample image. I think it look's rather like a black hole, don't you?](/screens/beautiful_3_BlackHole.png)
+![Here is a sample image. I think it look's rather like a black hole, don't you?](/screens/wallpaper5_small.png)
+
+![And here is the ui](/screens/ui_3.png)
+![And here is the ui](/screens/ui_4.png)
+
 
 ## Credits 
 
