@@ -4,7 +4,12 @@
 
 I hope you like the program! I love making such things. Many more shall come along like it. 
 
-Waves uses my [Raylib-Starter-Project](https://github.com/Softwave/Raylib-Starter-Project).
+## Download
+
+You can download the program on [itch.io](https://softwave.itch.io/waves). 
+
+You can see a YouTube video demonstration [here](https://youtu.be/E9UjW3Wditk).
+
 
 ## Image Examples 
 
@@ -20,7 +25,7 @@ More example images from the program can be seen on [my Ko-fi](https://ko-fi.com
 
 [Departure Mono](https://departuremono.com/) is by [Helena Zhang](https://www.helenazhang.com/) and released under the SIL Open Font License (see [DepartureMonoLicense](DepartureMonoLicense)). 
 
-The w.i.p. test shader comes from [GLSL Sandbox](https://glslsandbox.com/e). 
+Waves uses my [Raylib-Starter-Project](https://github.com/Softwave/Raylib-Starter-Project).
 
 Libs: 
 

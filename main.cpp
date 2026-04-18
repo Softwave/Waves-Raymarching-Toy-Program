@@ -221,7 +221,8 @@ int main(void)
     SetConfigFlags(FLAG_MSAA_4X_HINT);
     //SetConfigFlags(FLAG_VSYNC_HINT); // This also sets the FPS to the same as display
     InitWindow(screenWidth, screenHeight, PROJNAME);
-    SetTargetFPS(0); // Important, we can cap at 60 (or whatever)
+    SetTargetFPS(60); // Important, we can cap at 60 (or whatever)
+    // This majorly lowers GPU load
 
     // Setup Raylib font
     Font dmFont = LoadFontEx("DM.ttf", 32, nullptr, 0);
