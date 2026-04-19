@@ -33,7 +33,7 @@ float colMod1[3] = { 5.0f, 2.5f, 3.0f };
 // --- ShaderToy wrapper ---
 // Prepended to every .fs file so shaders only need to write mainImage().
 static const char* SHADERTOY_PREAMBLE = R"glsl(
-#version 330
+#version 430
 
 uniform vec3      iResolution;
 uniform float     iTime;

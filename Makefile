@@ -13,7 +13,7 @@
 
 # Basic project settings
 PROJECT  := Waves
-VERSION  := 0.3
+VERSION  := 0.4
 
 BUILD_CONFIG := build_config.h
 
