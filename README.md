@@ -1,5 +1,10 @@
 # Waves-Raymarching-Toy-Program
 
+<p align="center">
+<img src="/wavesIcon.png" width="300">
+</p>
+
+
 'Waves' is a raymarched graphical toy for making desktop wallpapers and other computer art. It is made with Raylib + GLSL + ImGui, and features an undulating, rippling, and ever amorphous 3D shape. It can be very nice to look at, when you play around with it sufficiently. It is particularly good for making abstract art. I've used it often to make desktop wallpapers. 
 
 I hope you like the program! I love making such things. Many more shall come along like it. 
